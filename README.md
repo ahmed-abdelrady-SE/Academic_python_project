@@ -1,6 +1,6 @@
 # Academic_python_project
 
-an Academic python project an cosmetics store GUI using python liberary "TKINTER"
+an Academic python project for a cosmetics store GUI using python liberary "TKINTER"
 
 to use it run the following commands in the terminal
 
